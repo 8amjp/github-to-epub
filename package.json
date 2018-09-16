@@ -1,0 +1,25 @@
+{
+  "name": "github-to-epub",
+  "version": "0.0.1",
+  "description": "GitHubリポジトリからePubを作成します。",
+  "main": "publish.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/8amjp/github-to-epub.git"
+  },
+  "author": "8amjp",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/8amjp/github-to-epub/issues"
+  },
+  "homepage": "https://github.com/8amjp/github-to-epub#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "epub-gen": "0.0.20",
+    "request": "^2.88.0",
+    "request-promise-native": "^1.0.5"
+  }
+}

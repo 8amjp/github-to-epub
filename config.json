@@ -1,0 +1,14 @@
+{
+    "token": "0000000000000000000000000000000000000000",
+    "url": "https://api.github.com/repos/8novels/redmine-fantasy/contents/episodes",
+    "epub" : {
+        "title": "Redmineで始める異世界人心掌握術",
+        "author": "足羽川永都",
+        "publisher": "8novels",
+        "cover": "https://github.com/8novels/redmine-fantasy/raw/master/cover.jpeg",
+        "output": "./redmine-fantasy.epub",
+        "lang": "ja",
+        "tocTitle": "目次",
+        "appendChapterTitles": false
+    }
+}
