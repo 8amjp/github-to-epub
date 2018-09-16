@@ -7,8 +7,10 @@ GitHubリポジトリからePubを作成します。
 
 ```
 git clone https://github.com/8amjp/github-to-epub.git
+npm install
 ```
-config.jsonを修正します。
+
+次にconfig.jsonを修正します。
 
 ### config.json
 
